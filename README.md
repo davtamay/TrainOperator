@@ -4,7 +4,7 @@ Proof of concept project done for a [capstone project under a Curriculum and Ins
 ## Designer Collaborators
 Undergraduate students from the University of Illinois-Urbana-Champaign: Zhiqing Zheng; Ivan Liu, Xue Lin;  
 
-![TheCellDivisionStory](MyRepoFiles/gameWalkthrough.gif)
+![TrainOperator](MyRepoFiles/gameWalkthrough.gif)
 
 ## Collaboration through Negotiation, Follow through, and Trial and Error
 - By providing a goal that requires two people to participate to achieve, this game aimed to give a chance to construct an idea of the importance of collaboration by exploring a simple train operation.
